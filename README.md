@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI Engineer · Recommendation Specialist · AgentOps</b><br/>
-  <i>LG U+ Personal Agent팀 · 기술책임 (Tech Lead)</i>
+  <i>LG U+ Personal Agent기술팀 · 기술책임</i>
 </p>
 
 <p align="center">
@@ -14,14 +14,14 @@
 ## 🚀 About Me
 
 LG유플러스에서 6년간 대고객 추천 서비스를 설계·개발해온 AI 엔지니어입니다.  
-IPTV/모바일TV 수백만 구독자 규모의 추천 시스템을 처음부터 운영까지 직접 경험했고,  
-지금은 기업 AI Agent 플랫폼과 AgentOps 아키텍처 설계에 집중하고 있습니다.
+IPTV/모바일TV 수백만 구독자 규모의 추천 시스템을 개발부터 운영까지 직접 경험했고,  
+지금은 AI Agent 플랫폼과 AgentOps 아키텍처 설계에 집중하고 있습니다.
 
 **Currently focused on:**
 
 - 🤖 AgentOps & AI Governance (사내 Agent 인가 시스템 · Observability)
 - 🧠 Multi-Agent Systems & MCP (Model Context Protocol)
-- 🔍 LLM 기반 개인화 서비스 (페르소나 · 검색 · 추천)
+- 🔍 LLM 기반 개인화 서비스 (개인화 · 추천 · 유저 페르소나)
 - 📐 Enterprise AI Architecture (AWS · GCP · On-premise)
 - 📊 LLM Evaluation & Observability
 
