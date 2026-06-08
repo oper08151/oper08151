@@ -15,7 +15,7 @@
 
 LG유플러스에서 6년간 대고객 추천 서비스를 설계·개발해온 AI 엔지니어입니다.  
 IPTV/모바일TV 수백만 구독자 규모의 추천 시스템을 개발부터 운영까지 직접 경험했고,  
-지금은 AI Agent 플랫폼과 AgentOps 아키텍처 설계에 집중하고 있습니다.
+지금은 기업 AI Agent 플랫폼과 AgentOps 아키텍처 설계에 집중하고 있습니다.
 
 **Currently focused on:**
 
@@ -94,16 +94,17 @@ IPTV/모바일TV 수백만 구독자 규모의 추천 시스템을 개발부터 
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Key Achievements
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=oper08151&show_icons=true&theme=tokyonight&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oper08151&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=oper08151&theme=tokyonight"/>
-</p>
+| 지표 | 개선 결과 |
+|------|----------|
+| 인기도 편향 해소 (DeepFM) | CTR · PV **2배 이상** 개선 |
+| LLM 유사콘텐츠 추천 | PV **+5%**, 매출 **+12%** |
+| VAE Ranking 모델 | 추론 속도 **50%** 개선 |
+| 앙상블 voting → ranking | CTR **+10%** |
+| MAB 앙상블 추천 | CTR **+5%**, PV **+20%** |
+| 콘텐츠 리랭킹 (Multi-VAE) | CTR **+20%** |
+| Contextual Bandit 지면 리랭킹 | MRR **+30%** (오프라인) |
 
 ---
 
@@ -115,10 +116,6 @@ IPTV/모바일TV 수백만 구독자 규모의 추천 시스템을 개발부터 
   <a href="https://github.com/oper0815">
     <img src="https://img.shields.io/badge/Legacy_GitHub-oper0815-181717?style=for-the-badge&logo=github">
   </a>
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=oper0815&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
